@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filmes Flix</string>
+    <string name="capa_do_filme">Capa do filme</string>
+    <string name="lancamento">LANÇAMENTO</string>
+</resources>
